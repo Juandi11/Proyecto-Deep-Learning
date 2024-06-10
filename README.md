@@ -15,7 +15,7 @@ Para los operadores de red es importante simular la mayor cantidad de escenarios
 
 
 
-Para poder dedterminar la estabilidad del sistema se usa el indice liapunov, sin embargo este requiere una ventana de tiempo de minimo 10s para poder hacer la clasificación (estable o inestable).
+Para poder dedterminar la estabilidad del sistema se usa el indice lyapunov, sin embargo este requiere una ventana de tiempo de minimo 10s para poder hacer la clasificación (estable o inestable).
 
 Para poder reducir el costo computacional de estas simulaciones bajar ventana de tiempo de simulación sería un avance, por tanto mediante la metodología implementada en los escrips de este repositorio se puede realizar esta clasificación (estable o inestable) usando una ventana de tiempo menor
 
